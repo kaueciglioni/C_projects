@@ -1,2 +1,2 @@
 # C_projects
-Introdução a lógica de programação através da linguagem C
+Primeiros passos a lógica de programação através da linguagem C.
